@@ -23,4 +23,18 @@
                         --- Authorize ---
 				        --- Refresh github ---
 
+
+
+git clone - copies an existing Git repository into a new local directory
+		git clone < repository url >
+
+git pull - retrieves and downloads content from a remote repository and updates the local repository as soon as it has been downloaded.
+		git pull
+
+git add - adds new or changed files in your working directory to the git staging area. As you're working, you change and save a file or 
+          multiple files.
+		git add < file path >
+		git add .
+
+
                         
